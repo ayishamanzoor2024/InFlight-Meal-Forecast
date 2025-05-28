@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>In-Flight Meal Order Forecast</title>
+</head>
+<body>
+    <h1>Forecast In-Flight Meal Orders</h1>
+    <form method="get">
+        <label for="days">Enter number of days to forecast:</label>
+        <input type="number" name="days" min="1" max="90" required>
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if image %}
+        <h2>Forecast for {{ forecast_days }} Days</h2>
+        <img src="data:image/png;base64,{{ image }}" alt="Forecast Plot">
+    {% endif %}
+</body>
+</html>
