@@ -60,10 +60,10 @@ Visit `http://127.0.0.1:8000/` in your browser.
 4. **Forecast**
 Enter the number of days to forecast and view the plotted results.
 
-## 📷 Screenshot
+# Screenshot
 
 _Example:_
-![Forecast Example](https://user-images.githubusercontent.com/your-placeholder-link)
+![Forecast Example](https://raw.githubusercontent.com/ayishamanzoor2024/InFlight-Meal-Forecast/6f026ee667daef4f80af14e048f163b80c4cdf82/Screenshot%202025-05-29%20102053.jpg)
 
 # Technologies Used
 - Python
