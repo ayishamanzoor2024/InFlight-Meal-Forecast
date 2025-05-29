@@ -62,7 +62,7 @@ Enter the number of days to forecast and view the plotted results.
 
 # Screenshot
 
-_Example:_
+_Web Application Screenshot:_
 ![Forecast Example](https://raw.githubusercontent.com/ayishamanzoor2024/InFlight-Meal-Forecast/6f026ee667daef4f80af14e048f163b80c4cdf82/Screenshot%202025-05-29%20102053.jpg)
 
 # Technologies Used
