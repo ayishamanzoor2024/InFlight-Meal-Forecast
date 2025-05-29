@@ -13,6 +13,9 @@ The application allows users to:
 
 The model used for forecasting is Facebook Prophet.
 
+# Dataset
+The dataset was custom-created for this project using daily in-flight meal order records (Jan to March 2024). It simulates real-world airline catering data, formatted to support time series forecasting.
+
 # Project Structure
 forecast_project/
 │
@@ -60,9 +63,8 @@ Visit `http://127.0.0.1:8000/` in your browser.
 4. **Forecast**
 Enter the number of days to forecast and view the plotted results.
 
-# Screenshot
+# Web Application Screenshot
 
-_Web Application Screenshot:_
 ![Forecast Example](https://raw.githubusercontent.com/ayishamanzoor2024/InFlight-Meal-Forecast/6f026ee667daef4f80af14e048f163b80c4cdf82/Screenshot%202025-05-29%20102053.jpg)
 
 # Technologies Used
